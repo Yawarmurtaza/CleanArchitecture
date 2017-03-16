@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\netcoreapp1.1\CleanArchitecture.Domain.deps.json
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\netcoreapp1.1\CleanArchitecture.Domain.dll
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\netcoreapp1.1\CleanArchitecture.Domain.pdb
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp1.1\CleanArchitecture.Domain.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp1.1\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp1.1\CleanArchitecture.Domain.dll
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp1.1\CleanArchitecture.Domain.pdb

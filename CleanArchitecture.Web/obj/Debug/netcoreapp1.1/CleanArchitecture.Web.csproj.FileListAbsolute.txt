@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\bin\Debug\netcoreapp1.1\CleanArchitecture.Web.deps.json
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\bin\Debug\netcoreapp1.1\CleanArchitecture.Web.runtimeconfig.json
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\bin\Debug\netcoreapp1.1\CleanArchitecture.Web.runtimeconfig.dev.json
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\bin\Debug\netcoreapp1.1\CleanArchitecture.Web.dll
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\bin\Debug\netcoreapp1.1\CleanArchitecture.Web.pdb
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\obj\Debug\netcoreapp1.1\CleanArchitecture.Web.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\obj\Debug\netcoreapp1.1\CleanArchitecture.Web.AssemblyInfo.cs
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\obj\Debug\netcoreapp1.1\CleanArchitecture.Web.dll
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\obj\Debug\netcoreapp1.1\CleanArchitecture.Web.pdb
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\bin\Debug\netcoreapp1.1\CleanArchitecture.Domain.dll
+D:\VisualStudioProjects\CleanArchitecture\CleanArchitecture.Web\bin\Debug\netcoreapp1.1\CleanArchitecture.Domain.pdb
